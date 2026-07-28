@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    if(!isset($_SESSION['user_type'])) { header("location: ../sign_in.php"); } 
+    if(!isset($_SESSION['user_type'])) { header("location: ../sign_in.php"); }  
     include("../database/constants.php");
 ?>
 

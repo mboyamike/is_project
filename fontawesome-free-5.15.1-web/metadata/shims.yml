@@ -1,7 +1,7 @@
 area-chart:
   name: chart-area
 arrow-circle-o-down:
-  name: arrow-alt-circle-down
+  name: arrow-alt-circle-down 
   prefix: far
 arrow-circle-o-left:
   name: arrow-alt-circle-left
